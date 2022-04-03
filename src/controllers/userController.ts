@@ -1,6 +1,6 @@
-import { User } from './../../models/user';
-import { UserCreateDto, UserUpdateDto } from './../../dtos/userDto';
-import { UserService } from './../../services/userService';
+import { User } from '../models/user';
+import { UserCreateDto, UserUpdateDto } from '../dtos/userDto';
+import { UserService } from '../services/userService';
 import {
   Body,
   Controller,

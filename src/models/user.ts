@@ -1,6 +1,5 @@
 import { Group } from './group';
 import { Role } from './role';
-import { RouterModule } from '@nestjs/core';
 import { Audit } from './audit';
 import * as mongoose from 'mongoose';
 
